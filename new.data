@@ -1,0 +1,13 @@
+{
+  "name": "Default Dev Container Profile",
+  "features": {},
+  "settings": {
+    "terminal.integrated.shell.linux": "/bin/bash",
+    "editor.tabSize": 2
+  },
+  "extensions": [
+    "ms-python.python",
+    "ms-toolsai.jupyter",
+    "github.copilot"
+  ]
+}
